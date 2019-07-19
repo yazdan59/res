@@ -1,6 +1,6 @@
 # Research Method (Overview)
 This course tries to deal with different strategies used to implement a plan to answer your research question (Research design).
-So, Research design and methods are different but closely related, because good research design ensures that the data you obtain will help you answer your research question more effectively.<br>One of the most important aspects of research is the statistics associated with it, conclusion or result. So, a graduate student needs to be familiar with basics concepts in statistics. Therefore, we would learn how to perform statistical tests using R Software as well. 
+So, Research design and methods are different but closely related, because good research design ensures that the data you obtain will help you answer your research question more effectively.<br>One of the most important aspects of research is the statistics associated with results or conclusion part. So, a graduate student needs to be familiar with basics concepts in statistics. Therefore, we would learn how to perform statistical tests using R Software during this course as well. 
 # Instructors: 
 Dr. Yazdan Asgari (yasgari at tums.ac.ir) ([Webpage](https://www.tums.ac.ir/faculties/yasgari))
 <br>Dr. Babak Negahdari
