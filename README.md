@@ -7,21 +7,22 @@ Dr. Yazdan Asgari ([Webpage](https://yazdan59.github.io/))
 <br>Dr. Babak Negahdari
 <br>Dr. Mohammad Ali Mazlomi
 ## Time & Location: 
-Sep-Dec 2019, lectures are held on Tuesdays 1:00 to 3:00 PM at Class#1, School of Advanced Technologies in Medicine, Tehran University of Medical Sciences
+Jan-Jun 2021, lectures are held on Tuesdays 8:00 to 10:00 AM online
 ## Exam
 The Score for this course would be taken through two parts including Take Home Exam for "Statistics" part, and a Final Exam for the rest of the sessions.
 ## Lecture Schedule
-| Date | Title | Description | Instructor |Reference |
-| --- | --- | --- | --- | --- |
-| 98/6/26 | Introduction | -- | Dr. Asgari | -- |
-| 98/7/2 | Finding a Suitable Research Proposal | -- | Dr. Mazlomi | -- |
-| 98/7/9 | Writing a Proposal, Literature Review | -- | Dr. Negahdari | -- |
-| 98/7/16 | Searching, Reading, and Writing Papers  | -- | Dr. Negahdari | -- |
-| 98/7/23 | Plagiarism in Scientific Research | -- | Dr. Negahdari | -- |
-| 98/7/30 | Statistics | Introduction, R Software | Dr. Asgari | -- |
-| 98/8/14 | Statistics | Descriptive Statistics | Dr. Asgari | [(Slide)](/slides/Descriptive_Statistics.pdf) |
-| 98/8/21 | Statistics | Significance Tests, Parametric Tests | Dr. Asgari | [(Slide)](/slides/Significancy.pdf) |
-| 98/8/28 | Statistics | Normality of Data | Dr. Asgari | [(Slide)](/slides/Normality.pdf) |
-| 98/9/5 | Statistics | SD vs. SE | Dr. Asgari | [(Slide)](/slides/SE_SD.pdf) |
-| 98/9/12 | Statistics | non-Parametric Tests, Correlation | Dr. Asgari | [(Slide)](/slides/nonpar.pdf) |
-| 98/9/19 | Reference Manager Softwares (EndNote, Mendeley) | -- | Dr. Asgari | -- |
+| # | Date | Title | Description | Instructor |Reference |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 99/11/7 | Introduction | -- | Dr. Asgari | -- |
+| 2 | 99/11/14 | Finding a Suitable Research Proposal | -- | Dr. Mazlomi | -- |
+| 3 | 99/11/21 | Writing a Proposal, Literature Review | -- | Dr. Negahdari | -- |
+| 4 | 99/11/28 | Searching, Reading, and Writing Papers  | -- | Dr. Negahdari | -- |
+| 5 | 99/12/5 | Plagiarism in Scientific Research | -- | Dr. Negahdari | -- |
+| 6 | 99/12/12 | Statistics | Introduction to Statistics | Dr. Asgari | -- |
+| 7 | 99/12/19 | Statistics | Descriptive Statistics, Significance Tests | Dr. Asgari | ([Slide_Descriptive_Statistics](slides/Descriptive_Statistics.pdf))<br>([Slide_Significancy](slides/Significancy.pdf)) |
+| 8 | 99/12/26 | Statistics | Normality of Data, SD vs. SE | Dr. Asgari | ([Slide_Normality](slides/Normality.pdf))<br>([Slide_SE_SD](slides/SE_SD.pdf))<br>([Slide_nonpar](slides/nonpar.pdf)) |
+| 9 | 00/1/17 | Statistics |  Practical | Dr. Asgari | -- |
+| 10 | 00/1/24 | Statistics | Practical | Dr. Asgari  | -- |
+| 11 | 00/1/31 | Statistics | Practical | Dr. Asgari  | -- |
+| 12 | 00/2/7 | Statistics | Practical | Dr. Asgari | -- |
+| 13 | 00/2/21 | Reference Manager Softwares (EndNote, Mendeley) | -- | Dr. Asgari | -- |
