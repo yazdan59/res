@@ -1,10 +1,11 @@
 Research Method Class Item License
 
-Copyright (c) 2018-2021 Yazdan Asgari
+Copyright (c) 2018-2023 Yazdan Asgari
 
-Permission is hereby granted, free of charge, JUST for any educational purposes to any person obtaining a copy of data of this class and associated documentation files, 
-to deal in the class without restriction, including without limitation the rights to use, copy, modify, merge, publish, and distribute copies of the class, 
-subject to the following conditions:
+Permission is hereby granted, free of charge, JUST for any educational purposes 
+to any person obtaining a copy of data of this class and associated documentation files, 
+to deal in the class without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, and distribute copies of the class, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the class.
